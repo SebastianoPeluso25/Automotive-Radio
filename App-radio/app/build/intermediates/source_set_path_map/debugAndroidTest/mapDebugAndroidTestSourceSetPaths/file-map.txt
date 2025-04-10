@@ -1,0 +1,6 @@
+com.example.verificaconnessione.test.app-core-1.6.1-0 C:\Users\sebastiano.peluso\.gradle\caches\transforms-4\23483477b90bfb357791933371e6b232\transformed\core-1.6.1\res
+com.example.verificaconnessione.test.app-tracing-1.2.0-1 C:\Users\sebastiano.peluso\.gradle\caches\transforms-4\bf3fd97a2f4f5cc9340ce5e87a2f7018\transformed\tracing-1.2.0\res
+com.example.verificaconnessione.test.app-androidTest-2 C:\Users\sebastiano.peluso\Documents\Automotive-Radio\App-radio\app\build\generated\res\resValues\androidTest\debug
+com.example.verificaconnessione.test.app-mergeDebugAndroidTestResources-3 C:\Users\sebastiano.peluso\Documents\Automotive-Radio\App-radio\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.verificaconnessione.test.app-mergeDebugAndroidTestResources-4 C:\Users\sebastiano.peluso\Documents\Automotive-Radio\App-radio\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.verificaconnessione.test.app-debugAndroidTest-5 C:\Users\sebastiano.peluso\Documents\Automotive-Radio\App-radio\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

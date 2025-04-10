@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color offline_red
+color online_green
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable radio1
+drawable radio2
+drawable rds
+drawable rtl
+id WebView
+id connectionStatusTextView
+id dateTextView
+id horizontalScrollView
+id image1
+id image2
+id image3
+id image4
+id image5
+id image6
+id image7
+id main
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.VerificaConnessione
+style Theme.VerificaConnessione
+xml backup_rules
+xml data_extraction_rules
